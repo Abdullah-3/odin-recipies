@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 500px;
+    margin: 16px auto;
+    background-color: rgb(255, 228, 213);
+    color: rgb(110, 34, 34);
+}
+h1,h2{
+    margin: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+p,li,a{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    width: 100%;
+}
