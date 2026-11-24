@@ -5,7 +5,7 @@
 }
 
 body{
-    width: 500px;
+    width: 600px;
     margin: 16px auto;
     background-color: rgb(255, 228, 213);
     color: rgb(110, 34, 34);
@@ -23,4 +23,9 @@ p,li,a{
 }
 img{
     width: 100%;
+}
+a{
+    color:  rgb(255, 51, 0);
+    font-size: 30px;
+
 }
